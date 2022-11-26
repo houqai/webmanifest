@@ -18,7 +18,7 @@
     "dir": "LTR",
     "display": "standalone",
     "scope": "\/",
-    "start_url": "https://doumei.org/",
+    "start_url": "\/?_pwa=1",
     "background_color": "#121212",
     "theme_color": "#121212"
 }
