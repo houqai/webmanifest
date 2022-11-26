@@ -1,0 +1,24 @@
+{
+    "name": "Doumei — магазин компьютерных игр и подписок",
+    "short_name": "Doumei",
+    "description": "магазин компьютерных игр и подписок",
+    "icons": [
+        {
+            "src": "https://static.tildacdn.com/tild3161-3039-4238-a330-373630393465/icon.png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://static.tildacdn.com/tild3161-3039-4238-a330-373630393465/icon.png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ],
+    "lang": "ru-RU",
+    "dir": "LTR",
+    "display": "standalone",
+    "scope": "\/",
+    "start_url": "\/?_pwa=1",
+    "background_color": "#121212",
+    "theme_color": "#121212"
+}
